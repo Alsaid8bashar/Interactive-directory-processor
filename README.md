@@ -1,5 +1,6 @@
 # Interactive-directory-processor
 This is a Bash script that performs three different operations on a specified directory.
+
 1-Delete: The script takes a directory and a maximum file size as input and deletes all files in the directory and its subdirectories that exceed the specified size.
 
 2-Analytics: The script takes a directory and a regular expression as input and searches for files in the directory and its subdirectories that match the regular expression. It then counts the total number of matches found.
